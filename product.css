@@ -77,7 +77,7 @@ body
 }
 .container .box::before
 {
-    content: 'Enjoy';
+    content: 'Enjoy Time';
     position: absolute;
     top: 20px;
     left: 20px;
@@ -91,7 +91,7 @@ body
 
 .container .box::after
 {
-    content: 'Eating';
+    content: 'and Eating';
     position: absolute;
     bottom: 20px;
     right: 20px;
